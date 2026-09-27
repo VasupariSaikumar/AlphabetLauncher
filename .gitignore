@@ -14,7 +14,3 @@
 .cxx
 local.properties
 
-# Exclude AppInfo file
-AppInfo.kt
-app/src/main/java/com/example/alphabetlauncher/AppInfo.kt
-
